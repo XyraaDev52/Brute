@@ -1,5 +1,3 @@
-# Installing Modules
-
 $ pkg update && upgrade
 
 $ pkg install git -y
@@ -12,4 +10,4 @@ $ git clone https://github.com/XyraaDev52/Brute
 
 $ cd Brute
 
-$ python run.py
+$ python brute.py
